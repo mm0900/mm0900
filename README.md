@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Akhil varma and I'm a 3rd year student </h2>
+<h2 align="left">Hi 👋! My name is Akhil varma and I'm a 4th-year student </h2>
 
 ###
 
